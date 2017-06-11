@@ -1,0 +1,11 @@
+output/*
+!output/.gitkeep
+input/*
+!input/.gitkeep
+notebooks/*
+!notebooks/floydhub-simple-cnn.ipynb
+floydhub-unzip/*
+!floydhub-unzip/.gitkeep
+floydhub-zip/*
+!floydhub-zip/.gitkeep
+!floydhub-zip/train-test.zip
